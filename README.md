@@ -2,6 +2,7 @@
 
 **Name:** NITHYA T  
 **Register Number:** 2305001023
+
 **Department:** CSE
 
 ## 1. AIM
@@ -272,7 +273,8 @@ npm run build
 
 ## 7. OUTPUT
 
-<img width="804" height="462" alt="image" src="https://github.com/user-attachments/assets/6e1ad2bd-894e-4bfe-b0e7-dcd63c8248cf" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-11-13 at 1 01 40 PM" src="https://github.com/user-attachments/assets/5f4c1ad0-beef-4bbf-b214-fafe20624870" />
+
 
 
 ## 8. OBSERVATION
